@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4F03CF3A-D585-4692-BFD5-24411CF5C564</string>
+	<string>A078CCDA-B836-4C98-85AD-7F82C1DDB008</string>
 	<key>IDESourceControlProjectName</key>
 	<string>M13InfiniteTabBar</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8E33E4D3-5EB5-4C47-8E4A-17A4EE32707E</key>
-		<string>https://github.com/Marxon13/M13InfiniteTabBar.git</string>
+		<key>2FAB0F33-46A6-44D2-B8D1-55E119BC7FC7</key>
+		<string>https://github.com/Marxon13/M13InfiniteTabBar</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>M13InfiniteTabBar.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8E33E4D3-5EB5-4C47-8E4A-17A4EE32707E</key>
+		<key>2FAB0F33-46A6-44D2-B8D1-55E119BC7FC7</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Marxon13/M13InfiniteTabBar.git</string>
+	<string>https://github.com/Marxon13/M13InfiniteTabBar</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8E33E4D3-5EB5-4C47-8E4A-17A4EE32707E</string>
+	<string>2FAB0F33-46A6-44D2-B8D1-55E119BC7FC7</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8E33E4D3-5EB5-4C47-8E4A-17A4EE32707E</string>
+			<string>2FAB0F33-46A6-44D2-B8D1-55E119BC7FC7</string>
 			<key>IDESourceControlWCCName</key>
 			<string>M13InfiniteTabBar</string>
 		</dict>
